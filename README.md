@@ -1,6 +1,6 @@
 # Rodriguez-EEG-fMRI-data-cleaning
 
-Reversed engineered code for removal of QRS signals from EEG-fMRI data when the ECG fails to give a good signal.
+Reversed engineered code from Rodriguez (2016) for removal of QRS signals from EEG-fMRI data when the ECG fails to give a good signal.
 
 If used, please cite:
 
